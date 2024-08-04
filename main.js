@@ -87,7 +87,6 @@ function parseHtml(A) {
 }
 // Enter Appliction Num , Day, Month, Year
 slove("240411054349", "07", "10", "2007");
-
 // Down here is the brute Force method like when you have Application Num but you
 // dont have their DOB
 
